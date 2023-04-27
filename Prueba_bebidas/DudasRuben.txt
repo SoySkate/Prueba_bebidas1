@@ -1,0 +1,21 @@
+﻿TO DO::::::
+
+-Hem de mirar events.
+
+ 
+
+
+(add data in document)(read data and print it in the screen Lista.vb)
+-Posarli la lògica al total desde (clstabla.vb*)
+-modal de introduir los datosss
+
+DONE:::::::
+-Create a function in clase_lista that add a (comanda) line
+-Create a button that substract drinks in (unidad) of each drink selected
+-Verify if drink exists in the listbox then just add another (unidad) not another line...
+-Create 2 functions that change Name and price object
+
+PREGUNTAS:::::::::::::
+
+-Hem de mirar events.
+-

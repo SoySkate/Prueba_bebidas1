@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<dstabla xmlns="http://tempuri.org/dstabla.xsd">
+  <comanda>
+    <id>2</id>
+    <nombre>cocacola</nombre>
+    <unidades>2</unidades>
+    <precio_unidad>1.35</precio_unidad>
+  </comanda>
+  <comanda>
+    <id>3</id>
+    <nombre>nestea</nombre>
+    <unidades>2</unidades>
+    <precio_unidad>2.30</precio_unidad>
+  </comanda>
+  <comanda>
+    <id>4</id>
+  </comanda>
+  <comanda>
+    <id>5</id>
+  </comanda>
+</dstabla>

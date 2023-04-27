@@ -1,0 +1,14 @@
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\capaLogica.xml
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\dades.dll
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\dades.pdb
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\bin\Debug\dades.xml
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.vbproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.Resources.resources
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.vbproj.GenerateResource.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.vbproj.CopyComplete
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.xml
+C:\Users\formacio3\source\repos\Prueba_bebidas\capaLogica\obj\Debug\capaLogica.pdb

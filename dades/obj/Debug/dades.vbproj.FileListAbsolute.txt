@@ -1,0 +1,10 @@
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\bin\Debug\dades.dll
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\bin\Debug\dades.pdb
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\bin\Debug\dades.xml
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.vbproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.Resources.resources
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.vbproj.GenerateResource.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.vbproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.dll
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.xml
+C:\Users\formacio3\source\repos\Prueba_bebidas\dades\obj\Debug\dades.pdb
